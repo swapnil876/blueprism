@@ -452,7 +452,7 @@ export default class Quote extends Component {
                       )}
                     </Text>
                   </View>
-                  <View style={styles.keyStateListCon}>
+                  {/*<View style={styles.keyStateListCon}>
                     <Text
                       style={{
                         color: '#ccc',
@@ -475,7 +475,7 @@ export default class Quote extends Component {
                       EPS
                     </Text>
                     <Text style={styles.keyConSymName}>3.08</Text>
-                  </View>
+                  </View>*/}
                 </View>
                 {/* <View style={styles.keyStateList}>
                   <View style={styles.keyStateListCon}>

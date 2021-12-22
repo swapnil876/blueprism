@@ -480,66 +480,7 @@ export default class TredingPortfolio extends Component {
                       {this.state.investedValue}
                     </Text>
                   </View>
-                  <View
-                    style={{
-                      flexDirection: 'row',
-                      justifyContent: 'space-between',
-                      paddingVertical: 5,
-                    }}>
-                    <Text
-                      style={{
-                        fontSize: 13,
-                        color: '#fff',
-                        opacity: 0.5,
-                        alignSelf: 'center',
-                      }}>
-                      Day G/L
-                    </Text>
-                    <View>
-                      <View style={{alignSelf: 'center'}}>
-                        <View
-                          style={{flexDirection: 'row', alignSelf: 'center'}}>
-                          <Icon
-                            name="caret-up"
-                            size={12}
-                            color="green"
-                            style={{alignSelf: 'center'}}
-                          />
-                          <Text style={styles.mrktUD}>+5000 (1%)</Text>
-                        </View>
-                      </View>
-                    </View>
-                  </View>
-                  <View
-                    style={{
-                      flexDirection: 'row',
-                      justifyContent: 'space-between',
-                      paddingVertical: 5,
-                    }}>
-                    <Text
-                      style={{
-                        fontSize: 13,
-                        color: '#fff',
-                        opacity: 0.5,
-                        alignSelf: 'center',
-                      }}>
-                      Overall G/L
-                    </Text>
-                    <View>
-                      <View style={{alignSelf: 'center'}}>
-                        <View
-                          style={{flexDirection: 'row', alignSelf: 'center'}}>
-                          <Icon
-                            name="caret-up"
-                            size={12}
-                            color="green"
-                            style={{alignSelf: 'center'}}
-                          />
-                          <Text style={styles.mrktUD}>+5000 (1%)</Text>
-                        </View>
-                      </View>
-                    </View>
-                  </View>
+                  
                   <View
                     style={{
                       flexDirection: 'row',
@@ -688,66 +629,6 @@ export default class TredingPortfolio extends Component {
                       }}>
                       {this.state.investedValue}
                     </Text>
-                  </View>
-                  <View
-                    style={{
-                      flexDirection: 'row',
-                      justifyContent: 'space-between',
-                      paddingVertical: 5,
-                    }}>
-                    <Text
-                      style={{
-                        fontSize: 13,
-                        color: '#fff',
-                        opacity: 0.5,
-                        alignSelf: 'center',
-                      }}>
-                      Day G/L
-                    </Text>
-                    <View>
-                      <View style={{alignSelf: 'center'}}>
-                        <View
-                          style={{flexDirection: 'row', alignSelf: 'center'}}>
-                          <Icon
-                            name="caret-up"
-                            size={12}
-                            color="green"
-                            style={{alignSelf: 'center'}}
-                          />
-                          <Text style={styles.mrktUD}>+5000 (1%)</Text>
-                        </View>
-                      </View>
-                    </View>
-                  </View>
-                  <View
-                    style={{
-                      flexDirection: 'row',
-                      justifyContent: 'space-between',
-                      paddingVertical: 5,
-                    }}>
-                    <Text
-                      style={{
-                        fontSize: 13,
-                        color: '#fff',
-                        opacity: 0.5,
-                        alignSelf: 'center',
-                      }}>
-                      Overall G/L
-                    </Text>
-                    <View>
-                      <View style={{alignSelf: 'center'}}>
-                        <View
-                          style={{flexDirection: 'row', alignSelf: 'center'}}>
-                          <Icon
-                            name="caret-up"
-                            size={12}
-                            color="green"
-                            style={{alignSelf: 'center'}}
-                          />
-                          <Text style={styles.mrktUD}>+5000 (1%)</Text>
-                        </View>
-                      </View>
-                    </View>
                   </View>
                   <View
                     style={{
